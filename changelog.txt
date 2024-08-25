@@ -1,9 +1,23 @@
-# Testtitel1
-[+] Delta-5
-[-] Resh
-[~] Admini?
+# ISD
+[+] Besitzen nun einen eigenen Schrank um eigenständig ihre Gegenstände zu entfernen zu können.
+[+] Leitung besitzt nun eine 5er Karte.
 
-# Testtitel4
-[+] Alp
-[-] Alp
-[~] Alp
+# Loot-System
+[~] Für das Durchsuchen wird nun 4 Sicherheitspersonal benötigt.
+
+# CW
+[~] CW Error wurde behoben. (unsicher) 
+
+# Management-System
+[+] Teammitglieder können nun Razzias starten und stoppen.
+[~] D-Klassen können den Razzia Timer und wann die Razzia endet nicht mehr sehen.
+[~] Management können den Razzia Timer nun sehen.
+
+# Drop
+[-] Identchecker kann nicht mehr gedroppt werden.
+
+# Alpha-1
+[+] Neue Ränge hinzugefügt
+
+# Ethik
+[+] Leitung besitzt nun einen schönen Revolver.
