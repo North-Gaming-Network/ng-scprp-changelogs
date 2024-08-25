@@ -19,5 +19,4 @@
 # Alpha-1
 [+] Neue Ränge hinzugefügt
 
-# Ethik
-[+] Leitung besitzt nun einen schönen Revolver.
+
