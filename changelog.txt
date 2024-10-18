@@ -2,20 +2,3 @@
 [+] eine Gehirnzelle
 [-] wegen D-Klassen keine mehr vorhanden
 [~] Krazy der liebe hat ihn eine gespendet
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Stuk
-[+] eine Gehirnzelle
-[-] wegen D-Klassen keine mehr vorhanden
-[~] Krazy der liebe hat ihn eine gespendet
